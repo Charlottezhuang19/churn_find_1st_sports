@@ -1,1 +1,2 @@
 # churn_find_1st_sports
+通过上传landing page中的model到model_list.csv来retrieve某时间段中第二次购买这些model的会员，第一次都买了些什么
